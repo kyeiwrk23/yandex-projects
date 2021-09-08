@@ -1,4 +1,5 @@
 Analyzing borrowers’ risk of defaulting
+This project is to preprocess dataset for analysis that's analyzing borrowers’ risk of default.
 
 The project is to prepare a report for a bank’s loan division. 
 You’ll need to find out if a customer’s marital status and number of children 
