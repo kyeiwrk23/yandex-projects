@@ -1,0 +1,1 @@
+Working as an analyst with the marketing at a big online store,we compiled list of hypotheses to help boost revenue for the online store.
