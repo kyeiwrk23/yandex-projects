@@ -1,0 +1,2 @@
+ The Management of a startup company that sells food products wants to change the font of the comapany's app so as not to affect the users negatively, they decided to run an A/A/B test with different group of users to ascetain which 
+ produces a good results as well as enhancing user behavior.
